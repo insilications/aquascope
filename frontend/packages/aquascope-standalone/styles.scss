@@ -320,7 +320,7 @@ a:hover {
 }
 
 .tabs-container {  
-  width: 750px;  
+  width: auto;
 }
 
 .tabs {
@@ -356,7 +356,7 @@ a:hover {
 }
 
 .tab-pane.active {
-  display: block;
+  display: flex;
 }
 
 /* XXX: editor **************************************** */
